@@ -1,0 +1,49 @@
+.mymark{
+    width:100%;
+    height:100%;
+    
+}
+.mymark .body>h1{
+    font-size:40px;
+    text-align: center;
+    border:1px solid #ccc;
+    margin-top:30px;
+    border-radius:15px;
+    font-family:"KaiTi";
+    background:#fff;
+}
+.mymark .body{
+    padding-top:1px;
+    height:100%;
+}
+.mymark .mysea{
+    padding:0;
+    display:flex;
+    flex-direction: row;
+    margin-top:30px;
+}
+.mymark .mysea li{
+    border:1px solid #ccc;
+    border-radius:15px;
+    width:50%;
+    text-align: center;
+    list-style:none;
+    font-size:30px;
+    background:#fff;
+}
+.data_1{
+    background:#fff;
+    margin-top:30px;
+    width:100%;
+    height:75%;
+    border-radius: 15px;
+    border:1px solid #ccc;
+}
+.dianzan_1 .ul li{
+    margin-top:30px;
+}
+.mymark .font{
+    text-align: center;
+    font-size:25px;
+    margin-top:50px;
+}

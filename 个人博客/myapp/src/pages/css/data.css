@@ -1,0 +1,88 @@
+.data{
+    width:100%;
+    height:100%;
+}
+.data h1{
+    font-size:50px;
+}
+.border{
+    width:97%;
+    margin:0 auto;
+    margin:1.5%;
+    border:1px solid #ccc;
+    border-radius: 15px;
+    padding:1.5%;
+    overflow: auto;
+}
+
+
+.img{
+    width:50%;
+    
+}
+
+.txt{
+    margin-top:20px;
+    font-size:20px;
+}
+
+/* tile uploaded pictures */
+.comment-action {
+    padding-left: 8px;
+    cursor: 'auto';
+  }
+  
+  [class*='-col-rtl'] .comment-action {
+    padding-right: 8px;
+    padding-left: 0;
+  }
+
+  .pinglun{
+      width:100%;
+      height:500px;
+      border:1px solid #ccc;
+      margin-top:1.5%;
+      
+  }
+  .pinglun h2{
+      margin:20px;
+  }
+  .pingluns{
+    list-style:none;
+    border:1px solid #ccc;
+    border-left:none;
+    border-right:none;
+    padding:30px 20px;
+    height:300px;
+    overflow: auto;
+  }
+  .pingluns li{
+    border:1px solid #ccc;
+    border-left:none;
+    border-right:none;
+    padding-top:20px;
+  }
+  .pingluns p{
+    margin-left:50px;
+  }
+  .ant-typography{
+      margin:10px;
+  }
+  .out{
+      padding:20px;
+  }
+  .input{
+      height:100%;
+      
+  }
+  .data h3{
+    margin-top:20px;
+  }
+  .data .font{
+    font-size:20px;
+  }
+  .data .anticon{
+  }
+  .like{
+    font-size:20px;
+  }

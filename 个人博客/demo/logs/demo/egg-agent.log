@@ -1,0 +1,21 @@
+2020-09-02 13:00:21,628 INFO 89176 [egg-logrotator] agent logger reload: got log-reload message
+2020-09-24 10:08:50,308 INFO 25664 [egg:logger] init all loggers with options: {"dir":"D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\logs\\demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-09-24 10:08:50,357 INFO 25664 [egg:core] dump config after load, 43ms
+2020-09-24 10:08:50,470 INFO 25664 [egg-watcher] Start watching: ["D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\config","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks_proxy","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app.js"]
+2020-09-24 10:08:50,470 INFO 25664 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app"
+2020-09-24 10:08:50,470 INFO 25664 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\config"
+2020-09-24 10:08:50,471 INFO 25664 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks"
+2020-09-24 10:08:50,471 INFO 25664 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks_proxy"
+2020-09-24 10:08:50,472 INFO 25664 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app.js"
+2020-09-24 10:08:50,473 INFO 25664 [egg-watcher:agent] watcher start success
+2020-09-24 10:08:50,578 INFO 25664 [egg:core] dump config after ready, 9ms
+2020-09-26 20:01:51,262 INFO 22532 [egg:logger] init all loggers with options: {"dir":"D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\logs\\demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-09-26 20:01:51,297 INFO 22532 [egg:core] dump config after load, 26ms
+2020-09-26 20:01:51,411 INFO 22532 [egg-watcher] Start watching: ["D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\config","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks_proxy","D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app.js"]
+2020-09-26 20:01:51,411 INFO 22532 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app"
+2020-09-26 20:01:51,412 INFO 22532 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\config"
+2020-09-26 20:01:51,412 INFO 22532 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks"
+2020-09-26 20:01:51,413 INFO 22532 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\mocks_proxy"
+2020-09-26 20:01:51,413 INFO 22532 [egg-watcher] Start watching: "D:\\学习资料\\高级node\\8月技能\\项目1\\demo\\app.js"
+2020-09-26 20:01:51,414 INFO 22532 [egg-watcher:agent] watcher start success
+2020-09-26 20:01:51,451 INFO 22532 [egg:core] dump config after ready, 10ms
